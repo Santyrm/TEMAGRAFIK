@@ -36,7 +36,7 @@ bash install
 Run `termux-style` & select the right option -
 
 ```bash
-$ termux-style
+$ TERMUXGRAFIK
 
     ┌──────────────────────────────────────────────────┐
     |••••••••••••••••••••••••••••••••••••••••••••••••••|
