@@ -28,7 +28,7 @@ Follow the steps below -
 cd $HOME
 
 # clone this repository - 
-git clone 
+git clone https://github.com/Santyrm/TEMAGRAFIK
 
 # change to termux-style dir -
 cd itul-termux
