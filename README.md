@@ -3,15 +3,7 @@
 [Dana]   : 0881011914872
 [YouTube]: https://youtube.com/@ALVI_TOXIZ
 
-# Termux Style
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/termux-style?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/adi1090x/termux-style?color=violet&style=for-the-badge">
-</p>
+# Te
 
 Simple script to change color-schemes and fonts for [Termux](https://termux.com) terminal emulator.
 
